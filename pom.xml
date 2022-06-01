@@ -12,6 +12,7 @@
         <module>catalog-service</module>
         <module>info-service</module>
         <module>rating-service</module>
+        <module>discovery-server</module>
     </modules>
     <name>movie-services</name>
     <url>https://devkiu.com</url>
